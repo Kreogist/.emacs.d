@@ -6,7 +6,7 @@
 ;; set tabbar's default theme
 ;; from http://blog.163.com/wobutianl@126/blog/static/133584820129303151170/
 (set-face-attribute 'tabbar-default nil 
-                   :family "Inconsolat" 
+                   :family "Anonymous Pro" 
                    :background "gray80" 
                    :foreground "gray30" 
                    :height 1.0 

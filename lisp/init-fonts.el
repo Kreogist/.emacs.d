@@ -1,6 +1,6 @@
 ;; Setting English Font
 (set-face-attribute
-'default nil :font "Inconsolata 12")
+'default nil :font "Anonymous Pro 12")
 
 ;; Chinese Font
 (dolist (charset '(kana han symbol cjk-misc bopomofo))
